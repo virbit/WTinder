@@ -11,7 +11,7 @@
 
 </div>
 
-WTinder 是2022年12月25日开始，一门免费、开源、轻量级、跨平台、代码编辑器，内置 Electron，由 SpaceLongan 主导开发。
+WTinder 是2022年12月25日开始，一门开源、跨平台、代码编辑器，内置 Electron，由 SpaceLongan 主导开发。
 
 打开文件速度快，并且稳定性良好，快速编写代码。
 
