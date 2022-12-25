@@ -22,5 +22,5 @@ WTinder 是2022年12月25日开始，一门免费、开源、轻量级、跨平�
 
 # License
 * [GPL-3.0 License](./LICENSE)
-* Copyright © 2022 WXTinder
+* Copyright © 2022 WTinder
 * Copyright © 2020 - 2022 Space Longan
